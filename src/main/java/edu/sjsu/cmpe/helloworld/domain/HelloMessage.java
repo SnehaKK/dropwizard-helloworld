@@ -3,7 +3,7 @@ package edu.sjsu.cmpe.helloworld.domain;
 import java.util.Date;
 
 public class HelloMessage {
-	private String message = "Hello";
+	private String message = "Hello Sneha";
 	private Date timestamp = new Date();
 
 	public Date getTimestamp() {
